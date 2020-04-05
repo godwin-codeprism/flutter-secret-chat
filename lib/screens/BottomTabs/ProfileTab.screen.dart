@@ -1,5 +1,5 @@
 import 'package:calculator/components/ProfilePicture.dart';
-import 'package:calculator/navigation/RouteNames.dart';
+import 'package:calculator/router/RouteNames.dart';
 import 'package:calculator/services/auth.service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

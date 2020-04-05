@@ -1,5 +1,5 @@
 import 'package:calculator/main.dart';
-import 'package:calculator/navigation/RouteNames.dart';
+import 'package:calculator/router/RouteNames.dart';
 import 'package:calculator/services/navigation.service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';

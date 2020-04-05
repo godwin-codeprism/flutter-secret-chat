@@ -1,4 +1,4 @@
-import 'package:calculator/navigation/RouteNames.dart';
+import 'package:calculator/router/RouteNames.dart';
 import 'package:calculator/services/auth.service.dart';
 import 'package:calculator/utils/ComponentDidMount.dart';
 import 'package:calculator/utils/globals.dart';
