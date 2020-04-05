@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830651540281",
+    "firebase_url": "https://secret-chat-52dc9.firebaseio.com",
+    "project_id": "secret-chat-52dc9",
+    "storage_bucket": "secret-chat-52dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830651540281:android:a0448f4ea6a51f98babee8",
+        "android_client_info": {
+          "package_name": "com.codeprism.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830651540281-fehqal85511skuam810n6tn3u0vmel77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1HYkuFxOMq_n4tH7LgnXc-gaZuNX95FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830651540281-fehqal85511skuam810n6tn3u0vmel77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
